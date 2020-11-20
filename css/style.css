@@ -1,0 +1,30 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron {
+	background-image: url('../img/bg2.jpg');
+	background-size: cover;
+	/*background-color: red;*/
+	background-attachment: fixed;
+	background-position: 0 -100px;
+	height: 500px;
+
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+/*.jumbotron h1 {
+	color: white;
+}*/
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
